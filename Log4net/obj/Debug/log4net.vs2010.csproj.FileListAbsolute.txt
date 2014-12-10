@@ -1,0 +1,5 @@
+D:\Work\C#\MsmqEmail\build\bin\net\2.0\debug\log4net.dll
+D:\Work\C#\MsmqEmail\build\bin\net\2.0\debug\log4net.pdb
+D:\Work\C#\MsmqEmail\build\bin\net\2.0\debug\log4net.xml
+D:\Work\C#\MsmqEmail\Log4net\obj\Debug\log4net.dll
+D:\Work\C#\MsmqEmail\Log4net\obj\Debug\log4net.pdb

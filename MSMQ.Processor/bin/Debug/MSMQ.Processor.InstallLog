@@ -1,0 +1,130 @@
+﻿Installing assembly 'D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe
+   logfile = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.InstallLog
+Installing service EmailQueueProcessor...
+Service EmailQueueProcessor has been successfully installed.
+Creating EventLog source EmailQueueProcessor in log Application...
+Committing assembly 'D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe
+   logfile = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.InstallLog
+Uninstalling assembly 'D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe
+   logfile = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.InstallLog
+Removing EventLog source EmailQueueProcessor.
+Service EmailQueueProcessor is being removed from the system...
+Service EmailQueueProcessor was successfully removed from the system.
+Attempt to stop service EmailQueueProcessor.
+Installing assembly 'D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe
+   logfile = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.InstallLog
+Installing service EmailQueueProcessor...
+Service EmailQueueProcessor has been successfully installed.
+Creating EventLog source EmailQueueProcessor in log Application...
+Committing assembly 'D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe
+   logfile = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.InstallLog
+Uninstalling assembly 'D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe
+   logfile = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.InstallLog
+Removing EventLog source EmailQueueProcessor.
+Service EmailQueueProcessor is being removed from the system...
+Service EmailQueueProcessor was successfully removed from the system.
+Installing assembly 'D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe
+   logfile = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.InstallLog
+Installing service EmailQueueProcessor...
+Service EmailQueueProcessor has been successfully installed.
+Creating EventLog source EmailQueueProcessor in log Application...
+Committing assembly 'D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe
+   logfile = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.InstallLog
+Uninstalling assembly 'D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe
+   logfile = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.InstallLog
+Removing EventLog source EmailQueueProcessor.
+Service EmailQueueProcessor is being removed from the system...
+Service EmailQueueProcessor was successfully removed from the system.
+Installing assembly 'D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe
+   logfile = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.InstallLog
+Installing service EmailQueueProcessor...
+Service EmailQueueProcessor has been successfully installed.
+Creating EventLog source EmailQueueProcessor in log Application...
+Committing assembly 'D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe
+   logfile = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.InstallLog
+Uninstalling assembly 'D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe
+   logfile = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.InstallLog
+Removing EventLog source EmailQueueProcessor.
+Service EmailQueueProcessor is being removed from the system...
+Service EmailQueueProcessor was successfully removed from the system.
+Uninstalling assembly 'D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe
+   logfile = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.InstallLog
+Removing EventLog source EmailQueueProcessor.
+Warning: The source EmailQueueProcessor is not registered on the local machine.
+Service EmailQueueProcessor is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe
+   logfile = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.InstallLog
+Installing service EmailQueueProcessor...
+Service EmailQueueProcessor has been successfully installed.
+Creating EventLog source EmailQueueProcessor in log Application...
+Committing assembly 'D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe
+   logfile = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.InstallLog
+Uninstalling assembly 'D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe
+   logfile = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.InstallLog
+Removing EventLog source EmailQueueProcessor.
+Service EmailQueueProcessor is being removed from the system...
+Service EmailQueueProcessor was successfully removed from the system.
+Installing assembly 'D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe
+   logfile = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.InstallLog
+Installing service EmailQueueProcessor...
+Service EmailQueueProcessor has been successfully installed.
+Creating EventLog source EmailQueueProcessor in log Application...
+Committing assembly 'D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.exe
+   logfile = D:\Work\C#\MsmqEmail\MSMQ.Processor\bin\Debug\MSMQ.Processor.InstallLog

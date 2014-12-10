@@ -1,0 +1,15 @@
+D:\Work\C#\MsmqEmail\MSMQ.WinTest\bin\Debug\MSMQ.WinTest.exe.config
+D:\Work\C#\MsmqEmail\MSMQ.WinTest\obj\Debug\MSMQ.WinTest.csprojResolveAssemblyReference.cache
+D:\Work\C#\MsmqEmail\MSMQ.WinTest\obj\Debug\MSMQ.WinTest.FrmMain.resources
+D:\Work\C#\MsmqEmail\MSMQ.WinTest\obj\Debug\MSMQ.WinTest.Properties.Resources.resources
+D:\Work\C#\MsmqEmail\MSMQ.WinTest\obj\Debug\MSMQ.WinTest.csproj.GenerateResource.Cache
+D:\Work\C#\MsmqEmail\MSMQ.WinTest\bin\Debug\MSMQ.WinTest.exe
+D:\Work\C#\MsmqEmail\MSMQ.WinTest\bin\Debug\MSMQ.WinTest.pdb
+D:\Work\C#\MsmqEmail\MSMQ.WinTest\bin\Debug\MSMQ.Email.dll
+D:\Work\C#\MsmqEmail\MSMQ.WinTest\bin\Debug\MSMQ.Email.pdb
+D:\Work\C#\MsmqEmail\MSMQ.WinTest\obj\Debug\MSMQ.WinTest.exe
+D:\Work\C#\MsmqEmail\MSMQ.WinTest\obj\Debug\MSMQ.WinTest.pdb
+D:\Work\C#\MsmqEmail\MSMQ.WinTest\bin\Debug\log4net.dll
+D:\Work\C#\MsmqEmail\MSMQ.WinTest\bin\Debug\log4net.xml
+D:\Work\C#\MsmqEmail\MSMQ.WinTest\bin\Debug\log4net.pdb
+D:\Work\C#\MsmqEmail\MSMQ.WinTest\bin\Debug\MSMQ.Email.xml

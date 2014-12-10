@@ -1,0 +1,9 @@
+D:\Work\C#\MsmqEmail\MSMQ.Email\bin\Debug\MSMQ.Email.dll
+D:\Work\C#\MsmqEmail\MSMQ.Email\bin\Debug\MSMQ.Email.pdb
+D:\Work\C#\MsmqEmail\MSMQ.Email\obj\Debug\MSMQ.Email.dll
+D:\Work\C#\MsmqEmail\MSMQ.Email\obj\Debug\MSMQ.Email.pdb
+D:\Work\C#\MsmqEmail\MSMQ.Email\bin\Debug\log4net.dll
+D:\Work\C#\MsmqEmail\MSMQ.Email\bin\Debug\log4net.pdb
+D:\Work\C#\MsmqEmail\MSMQ.Email\bin\Debug\log4net.xml
+D:\Work\C#\MsmqEmail\MSMQ.Email\obj\Debug\MSMQ.Email.csprojResolveAssemblyReference.cache
+D:\Work\C#\MsmqEmail\MSMQ.Email\bin\Debug\MSMQ.Email.XML

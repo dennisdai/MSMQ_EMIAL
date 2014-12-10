@@ -1,0 +1,28 @@
+C:\CSDev\App10\NML\Log4Ext\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CSDev\App10\NML\Log4Ext\bin\Debug\Log4Ext.dll
+C:\CSDev\App10\NML\Log4Ext\bin\Debug\Log4Ext.pdb
+C:\CSDev\App10\NML\Log4Ext\bin\Debug\log4net.dll
+C:\CSDev\App10\NML\Log4Ext\bin\Debug\log4net.xml
+C:\CSDev\App10\NML\Log4Ext\obj\x86\Debug\Log4Ext.dll
+C:\CSDev\App10\NML\Log4Ext\obj\x86\Debug\Log4Ext.pdb
+E:\CurrProject\Log4Test\Log4Ext\bin\Debug\Log4Ext.dll
+E:\CurrProject\Log4Test\Log4Ext\bin\Debug\Log4Ext.pdb
+E:\CurrProject\Log4Test\Log4Ext\bin\Debug\log4net.dll
+E:\CurrProject\Log4Test\Log4Ext\bin\Debug\log4net.xml
+E:\CurrProject\Log4Test\Log4Ext\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\CurrProject\Log4Test\Log4Ext\obj\x86\Debug\Log4Ext.dll
+E:\CurrProject\Log4Test\Log4Ext\obj\x86\Debug\Log4Ext.pdb
+G:\Work\Dev CSharp\Cobra\Log4Ext\bin\Debug\Log4Ext.dll
+G:\Work\Dev CSharp\Cobra\Log4Ext\bin\Debug\Log4Ext.pdb
+G:\Work\Dev CSharp\Cobra\Log4Ext\bin\Debug\log4net.dll
+G:\Work\Dev CSharp\Cobra\Log4Ext\bin\Debug\log4net.xml
+G:\Work\Dev CSharp\Cobra\Log4Ext\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Work\Dev CSharp\Cobra\Log4Ext\obj\x86\Debug\Log4Ext.dll
+G:\Work\Dev CSharp\Cobra\Log4Ext\obj\x86\Debug\Log4Ext.pdb
+C:\CsDev\App10\Cobra\Log4Ext\bin\Debug\Log4Ext.dll
+C:\CsDev\App10\Cobra\Log4Ext\bin\Debug\Log4Ext.pdb
+C:\CsDev\App10\Cobra\Log4Ext\bin\Debug\log4net.dll
+C:\CsDev\App10\Cobra\Log4Ext\bin\Debug\log4net.xml
+C:\CsDev\App10\Cobra\Log4Ext\obj\x86\Debug\Log4Ext.dll
+C:\CsDev\App10\Cobra\Log4Ext\obj\x86\Debug\Log4Ext.pdb
+C:\CSDev\App10\Cobra\Log4Ext\obj\x86\Debug\ResolveAssemblyReference.cache

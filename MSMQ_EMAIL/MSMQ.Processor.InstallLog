@@ -1,0 +1,43 @@
+﻿Uninstalling assembly 'D:\Work\C#\MsmqEmail\MSMQ_EMAIL\MSMQ.Processor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Work\C#\MsmqEmail\MSMQ_EMAIL\MSMQ.Processor.exe
+   logfile = D:\Work\C#\MsmqEmail\MSMQ_EMAIL\MSMQ.Processor.InstallLog
+Removing EventLog source EmailQueueProcessor.
+Service EmailQueueProcessor is being removed from the system...
+Service EmailQueueProcessor was successfully removed from the system.
+Attempt to stop service EmailQueueProcessor.
+Installing assembly 'D:\Work\C#\MsmqEmail\MSMQ_EMAIL\MSMQ.Processor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Work\C#\MsmqEmail\MSMQ_EMAIL\MSMQ.Processor.exe
+   logfile = D:\Work\C#\MsmqEmail\MSMQ_EMAIL\MSMQ.Processor.InstallLog
+Installing service EmailQueueProcessor...
+Service EmailQueueProcessor has been successfully installed.
+Creating EventLog source EmailQueueProcessor in log Application...
+Committing assembly 'D:\Work\C#\MsmqEmail\MSMQ_EMAIL\MSMQ.Processor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Work\C#\MsmqEmail\MSMQ_EMAIL\MSMQ.Processor.exe
+   logfile = D:\Work\C#\MsmqEmail\MSMQ_EMAIL\MSMQ.Processor.InstallLog
+Uninstalling assembly 'D:\Work\C#\MsmqEmail\MSMQ_EMAIL\MSMQ.Processor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Work\C#\MsmqEmail\MSMQ_EMAIL\MSMQ.Processor.exe
+   logfile = D:\Work\C#\MsmqEmail\MSMQ_EMAIL\MSMQ.Processor.InstallLog
+Removing EventLog source EmailQueueProcessor.
+Service EmailQueueProcessor is being removed from the system...
+Service EmailQueueProcessor was successfully removed from the system.
+Installing assembly 'D:\Work\C#\MsmqEmail\MSMQ_EMAIL\MSMQ.Processor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Work\C#\MsmqEmail\MSMQ_EMAIL\MSMQ.Processor.exe
+   logfile = D:\Work\C#\MsmqEmail\MSMQ_EMAIL\MSMQ.Processor.InstallLog
+Installing service EmailQueueProcessor...
+Service EmailQueueProcessor has been successfully installed.
+Creating EventLog source EmailQueueProcessor in log Application...
+Committing assembly 'D:\Work\C#\MsmqEmail\MSMQ_EMAIL\MSMQ.Processor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Work\C#\MsmqEmail\MSMQ_EMAIL\MSMQ.Processor.exe
+   logfile = D:\Work\C#\MsmqEmail\MSMQ_EMAIL\MSMQ.Processor.InstallLog

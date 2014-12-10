@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MSMQ.Email</name>
+    </assembly>
+    <members>
+        <member name="P:MSMQ.Email.EmailEntity.Subject">
+            <summary>
+            <para>The subject of email</para>
+            <para>邮件主题</para>
+            </summary>
+        </member>
+        <member name="P:MSMQ.Email.EmailEntity.From">
+            <summary>
+            <para>Where is from which email</para>
+            <para>发送者邮箱</para>
+            </summary>
+        </member>
+        <member name="P:MSMQ.Email.EmailEntity.FriendlyName">
+            <summary>
+            <para>Display friendly name for From.</para>
+            <para>发件者的友好显示，不以发送者邮箱显示</para>
+            </summary>
+        </member>
+        <member name="P:MSMQ.Email.EmailEntity.EmailTo">
+            <summary>
+            <para>To list</para>
+            <para>发送给谁的邮箱地址集合</para>
+            </summary>
+        </member>
+        <member name="P:MSMQ.Email.EmailEntity.EmailCc">
+            <summary>
+            <para>Cc list</para>
+            <para>抄送给谁的邮箱地址集合</para>
+            </summary>
+        </member>
+        <member name="P:MSMQ.Email.EmailEntity.EmailBcc">
+            <summary>
+            <para>Bcc list </para>
+            <para>密送给谁的邮箱地址集合</para>
+            </summary>
+        </member>
+        <member name="P:MSMQ.Email.EmailEntity.AttachementPaths">
+            <summary>
+            <para>attached files paths</para>
+            <para>附件在电脑中的地址集合</para>
+            </summary>
+        </member>
+        <member name="P:MSMQ.Email.EmailEntity.Message">
+            <summary>
+            <para>message body</para>
+            <para>发送的主体信息</para>
+            </summary>
+        </member>
+        <member name="P:MSMQ.Email.EmailEntity.IsBccAll">
+            <summary>
+            <para>if true sending email by bcc (including EmailTo, EmailCc), if false just for EmailBcc</para>
+            <para>True 对所有地址进行密送，包括发送地址，抄送地址。False 只对EmailBcc密送</para>
+            </summary>
+        </member>
+        <member name="P:MSMQ.Email.EmailEntity.SMTP">
+            <summary>
+            <para>SMTP information</para>
+            <para>邮箱发送服务器信息</para>
+            </summary>
+        </member>
+        <member name="M:MSMQ.Email.EmailService.SendMessage(MSMQ.Email.EmailEntity)">
+            <summary>
+            sending email
+            </summary>
+            <param name="message">email message</param>
+        </member>
+        <member name="M:MSMQ.Email.QueueService.QueueMessage(System.String,MSMQ.Email.EmailEntity)">
+            <summary>
+            sending email message to MSMQ
+            </summary>
+            <param name="QueuePath">Queue path</param>
+            <param name="message">Email Message</param>
+        </member>
+        <member name="P:MSMQ.Email.SMTPEntity.UserName">
+            <summary>
+            <para>User name</para>
+            <para>登录账号</para>
+            </summary>
+        </member>
+        <member name="P:MSMQ.Email.SMTPEntity.Password">
+            <summary>
+            <para>Password</para>
+            <para>登录密码</para>
+            </summary>
+        </member>
+        <member name="P:MSMQ.Email.SMTPEntity.SMTP">
+            <summary>
+            <para>SMTP address</para>
+            <para>发送邮件的服务器</para>
+            </summary>
+        </member>
+        <member name="P:MSMQ.Email.SMTPEntity.Port">
+            <summary>
+            <para>port</para>
+            <para>端口： 一般是25</para>
+            </summary>
+        </member>
+        <member name="P:MSMQ.Email.SMTPEntity.EnableSSL">
+            <summary>
+            <para>enable ssl</para>
+            <para>是否开启SSL</para>
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,6 @@
+D:\Work\C#\MsmqEmail\Test\bin\Debug\Test.exe.config
+D:\Work\C#\MsmqEmail\Test\bin\Debug\Test.exe
+D:\Work\C#\MsmqEmail\Test\bin\Debug\Test.pdb
+D:\Work\C#\MsmqEmail\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Work\C#\MsmqEmail\Test\obj\Debug\Test.exe
+D:\Work\C#\MsmqEmail\Test\obj\Debug\Test.pdb
